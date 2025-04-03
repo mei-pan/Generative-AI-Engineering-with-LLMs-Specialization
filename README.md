@@ -1,9 +1,10 @@
 # Generative AI Engineering with LLMs Specialization
-- by IBM [link](https://www.coursera.org/specializations/generative-ai-engineering-with-llms)
+- Created by [IBM](https://www.coursera.org/specializations/generative-ai-engineering-with-llms)
 - this is a 7-course series wiht hands-on labs and a final project focus on developing skills to build apps using franmworks and pre-trained foundational models such as BERT, GPT, and LLaMA. this specialization also cover the usage of Hugging Face, PyTorch, RAG and LangChain Frameworks to develop and depoly LLM NLP-based apps.
 
 Course 1 Generative AI and LLMs: Architecture and Data Preparation  
-- Lab: Explore Generative AI Libiaries.
+- [Lab 1](https://github.com/mei-pan/Generative-AI-Engineering-with-LLMs-Specialization/blob/main/C1_L1_Exploring_Generative_AI_Libraries.ipynb): Explore Generative AI Libiaries.   
+       -  Explore the comment strcuture of NLP architectures and use transfomer and pre-trained model (from google and facebook) to create a simple chatbot. 
      
 Course 2 Generative AI Foundational Model for NLP and Language Understanding        
 Course 3 Generative AI Language Model with Transformers      
