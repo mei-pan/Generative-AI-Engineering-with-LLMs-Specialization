@@ -4,7 +4,10 @@
 
 Course 1 Generative AI and LLMs: Architecture and Data Preparation  
 - [Lab 1](https://github.com/mei-pan/Generative-AI-Engineering-with-LLMs-Specialization/blob/main/C1_L1_Exploring_Generative_AI_Libraries.ipynb): Explore Generative AI Libiaries.   
-       -  Explore the comment strcuture of NLP architectures and use transfomer and pre-trained model (from google and facebook) to create a simple chatbot. 
+       -  Explore the comment strcuture of NLP architectures and use transfomer and pre-trained model (from google and facebook) to create a simple chatbot.
+- [Lab 2](https://github.com/mei-pan/Generative-AI-Engineering-with-LLMs-Specialization/blob/main/C1_L2_Implementing%20Tokenization.ipynb): Implementing Tokenization.   
+       - Learn the concept and methods of tokenization, explore popular tokenizers like NLTK, spaCy, BERT, and XLNet, and compare their performance.
+
      
 Course 2 Generative AI Foundational Model for NLP and Language Understanding        
 Course 3 Generative AI Language Model with Transformers      
